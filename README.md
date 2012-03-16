@@ -1,8 +1,8 @@
 jQuery postJSON
 ==============
 
-A tiny plugin that adds a $.postJSON method to jQuery.
-----------------------------
+### A tiny plugin that adds a $.postJSON method to jQuery.
+
 
 Usage:
 

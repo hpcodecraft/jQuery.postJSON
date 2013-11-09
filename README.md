@@ -7,8 +7,3 @@ jQuery postJSON
 Usage:
 
     $.postJSON( url, data, callback( json ){ ... } );
-
-
-* * *
-
-Copyright (c) 2012 [squidpeople](http://squidpeople.com)
